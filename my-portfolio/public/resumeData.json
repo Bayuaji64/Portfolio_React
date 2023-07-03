@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Bayuaji Arinanda",
+    "description": "I am a Junior Software Engineering and IT enthusiast ",
+    "github": "https://github.com/Bayuaji64",
+    "LinkedIn": "https://www.linkedin.com/in/bayuaji-pradipta-arinanda-9401991aa/",
+    "bio": "This is my biography section",
+    "image": "with_rayya.jpg",
+    "contactmessage": "Hello, here I am",
+    "email": "bayuajipradipta64@gmail.com",
+    "phone": "+62 878-3236-8313",
+    "address": {
+      "city": "Semarang & Yogyakarta",
+      "state": "Central Java"
+    },
+    "resumeDownload": "https://drive.google.com/file/d/1Po3aE8ogBhQCI9VBF8EWAFQdLx03975g/view?usp=sharing",
+
+     "social":[
+          {
+            "name": "facebook",
+            "url": "https://www.instagram.com/bayuajiarinanda/",
+            "className": "fa fa-facebook"
+          },
+          {
+            "name":"twitter",
+            "url":"http://twitter.com",
+            "className":"fa fa-twitter"
+          },
+
+          {
+            "name":"instagram",
+            "url":"https://www.instagram.com/bayuajiarinanda/",
+            "className":"fa fa-instagram"
+          }
+          
+        ]
+
+  },
+
+  "resume": {
+      "skillmessage": "For a more comprehensive view, please refer to my Dowload Resume :).",
+      "education": [
+        {
+          "school": "Hacktiv8",
+          "degree": "Fullstack Javascript",
+          "graduated": "March 2023",
+          "description": "GPA of 3.22 out of 4.0"
+        },
+        {
+          "school": "Diponegoro University",
+          "degree": "Bachelor degree of International Relations",
+          "graduated": "Feb 2022",
+          "description": "Final Grade 74.70%"
+        }
+
+        
+      ],
+
+       "skills": [
+            {
+                "name" : "JavaScript",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "65%"
+            },
+            {
+                "name": "NodeJS",
+                "level": "88%"
+            },
+            {
+                "name": "VueJS",
+                "level": "85%"
+            },
+            {
+                "name": "SQL",
+                "level": "90%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "70%"
+            }
+        ]
+
+
+
+
+
+       
+
+    }
+
+
+
+}
+
+
+
+
+
+
+      
